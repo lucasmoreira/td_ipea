@@ -12,7 +12,7 @@
 
 #02_reverse_onehotencoding
 
-  Recebe os textos de limpos no passo 2 com o arquivo:dados_stemizados.csv ,e os processos com sentença classificada: tmp-sentencas-classificadas.csv. Em seguida, é unido os dados em um só DF e as colunas correspondentes às classificações categórigas são convertidas para uma só coluna.
+  Recebe os textos limpos no passo 2 com o arquivo: dados_stemizados.csv ,e os processos com sentença classificada: tmp-sentencas-classificadas.csv. Em seguida, são unidos os dados em um só DF e as colunas correspondentes às classificações categórigas são convertidas para uma só coluna.
   O resultado final é exportado para o arquivo: categorical.csv .
   
 #03_NB
