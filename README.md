@@ -1,4 +1,6 @@
-# TD Ipea
+# Text for Discussion Ipea (Institute for Applied Economic Research)
+
+[TD 2612 - Línguas Naturais E Máquinas Artificiais: aplicação de técnicas de mineração de texto para a classificação de sentenças judiciais brasileiras](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=37082&Itemid=448)
 
 This repository aims to use ML to classify sentence texts, using sample pre-sorted with regular expressions.
 
